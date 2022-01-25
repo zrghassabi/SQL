@@ -8,3 +8,12 @@ Data Manipulation Language. ...
 Data Control Language. ...
 Transaction Control Language. ...
 Data Query Language.
+
+
+SQL Arithmetic Operators:+,-,*,/,%
+
+SQL Comparison Operators:>,<,=,!=,<>, >=, <=, !<, !>
+
+SQL Logical Operators: 
+
+ALL	, AND, ANY, BETWEEN	, IN, NOT	, OR, EXISTS, LIKE
