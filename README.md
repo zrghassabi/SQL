@@ -14,6 +14,10 @@ SQL Arithmetic Operators:+,-,*,/,%
 
 SQL Comparison Operators:>,<,=,!=,<>, >=, <=, !<, !>
 
-SQL Logical Operators: 
+SQL Logical Operators: ALL	, AND, ANY, BETWEEN	, IN, NOT	, OR, EXISTS, LIKE
 
-ALL	, AND, ANY, BETWEEN	, IN, NOT	, OR, EXISTS, LIKE
+
+
+
+
+Inspired by : https://bipp.io/sql-tutorial/
